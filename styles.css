@@ -19,7 +19,7 @@ body{
 .botones-menu ul {
 
     margin: 0;
-    margin-right: 5%;
+    gap: 20px;
     padding: 0;
     display: flex;
     flex-direction: row;
